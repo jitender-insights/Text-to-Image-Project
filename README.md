@@ -14,7 +14,7 @@ This project is a Streamlit-based web application with a FastAPI backend for gen
 
 1. Clone this repository:
    ```
-   git clone https://github.com/jitender-insights/Stable-Diffusion-Project.git
+   git clone https://github.com/jitender-insights/Text-to-Image-Project.git
    ```
 
 2. Create a virtual environment and activate it:
@@ -28,7 +28,7 @@ This project is a Streamlit-based web application with a FastAPI backend for gen
    pip install -r requirements.txt
    ```
 
-4. Set up your Hugging Face token in the `.env` file.
+4. Kindly run the backend code in Google Collab by changing run time to T4 GPU(Mandatory)
 
 ## Usage
 
